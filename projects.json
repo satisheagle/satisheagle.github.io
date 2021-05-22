@@ -166,7 +166,7 @@
             "HTML5",
             "CSS"
          ],
-         "image_link":"img/scrollimg/cssintro.gif",
+         "image_link":"img/portfolio/9.jpg",
          "image_popup":"img/scrollimg/cssintro.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"This is an Introduction to an websites with supporting text below as a natural lead-in to additional content. This content is a little bit longer.",
@@ -185,7 +185,7 @@
             "HTML5",
             "CSS"
          ],
-         "image_link":"img/scrollimg/cssintro2.gif",
+         "image_link":"img/portfolio/10.jpg",
          "image_popup":"img/scrollimg/cssintro2.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"This is an Introduction to an websites with supporting text below as a natural lead-in to additional content. This content is a little bit longer. Please Note This Application is not Mobile Responsive. ",
@@ -205,7 +205,7 @@
             "HTML5",
             "CSS"
          ],
-         "image_link":"img/scrollimg/shopping.gif",
+         "image_link":"img/portfolio/11.jpg",
          "image_popup":"img/scrollimg/shopping.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"This is a kind of todo app to store the list of items in a local storage and can be edited, this is helpfull in making a note of items to be purchased before going to shopping.",
@@ -225,7 +225,7 @@
             "HTML5",
             "CSS"
          ],
-         "image_link":"img/scrollimg/glassmorphism.gif",
+         "image_link":"img/portfolio/12.jpg",
          "image_popup":"img/scrollimg/glassmorphism.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"The new UI trend, some characteristics find here.",
@@ -248,7 +248,7 @@
             "Fusion charts",
             "CSS"
          ],
-         "image_link":"img/scrollimg/insurence.gif",
+         "image_link":"img/portfolio/13.jpg",
          "image_popup":"img/scrollimg/insurence.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"calculate insurance in-react here i used Fusion charts to track my expenses in a bar chart.",
@@ -270,7 +270,7 @@
             "API",
             "CSS"
          ],
-         "image_link":"img/scrollimg/Weather.gif",
+         "image_link":"img/portfolio/14.jpg",
          "image_popup":"img/scrollimg/Weather.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"it shows the current weather report of you city based on live API, node.js,express, handlebars.",
@@ -291,7 +291,7 @@
             "HTML5",
             "CSS"
          ],
-         "image_link":"img/scrollimg/quiz.gif",
+         "image_link":"img/portfolio/15.jpg",
          "image_popup":"img/scrollimg/quiz.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"This application is developed for educational purpose, allowing the users to prepare the multiple choice questions for different examinations.",
@@ -311,7 +311,7 @@
             "Tesseract",
             "CSS"
          ],
-         "image_link":"img/scrollimg/imgtotxt.gif",
+         "image_link":"img/portfolio/16.jpg",
          "image_popup":"img/scrollimg/imgtotxt.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"This application is used to extract the text from an image, This application is build using React, imgbb api is used to store uploaded image then used Tesseract to convert to text. usually it will take more time to extract text from image.",
@@ -332,7 +332,7 @@
             "Redux",
             "CSS"
          ],
-         "image_link":"img/scrollimg/contactbook.gif",
+         "image_link":"img/portfolio/17.jpg",
          "image_popup":"img/scrollimg/contactbook.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"This application is used to add contacts, edit and delete build using React, Redux and used Avatars for user icon using starting Letters from UserName. ",
@@ -351,7 +351,7 @@
             "React",
             "CSS"
          ],
-         "image_link":"img/scrollimg/Advice.gif",
+         "image_link":"img/portfolio/18.jpg",
          "image_popup":"img/scrollimg/Advice.gif",
          "bgnorepeat":"bgnorepeat",
          "description":"This application is used to give Advice to user on Button click, Random Advice will display from an API.",
